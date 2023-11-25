@@ -19,14 +19,13 @@
 - 🌱 I’m currently learning Azure Data Engineering 
 
 <h2> Skills <!--img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px--> </h2>
+<p>
 - Python
-
 - SQL
-  
-- Spark
-  
+- Spark  
 - Databricks
-
+</p>
+</h3>
 <!--
 <a href= https://github.com/https://github.com/Ashish9422?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/Ashish9422?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
