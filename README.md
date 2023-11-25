@@ -20,11 +20,12 @@
 
 <h2> Skills <!--img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px--> </h2>
 <p>
- -- Python
- -- SQL
- -- Spark  
- -- Databricks
-</p>
+  <ul>Python</ul>
+  <ul>MySql</ul>
+  <ul>Spark</ul>
+  <ul>Databricks</ul>
+  <ul>Azure Data Factory</ul>
+ </p>
 </h3>
 <!--
 <a href= https://github.com/https://github.com/Ashish9422?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
