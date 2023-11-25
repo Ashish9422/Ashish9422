@@ -20,10 +20,10 @@
 
 <h2> Skills <!--img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px--> </h2>
 <p>
-- Python
-- SQL
-- Spark  
-- Databricks
+ -- Python
+ -- SQL
+ -- Spark  
+ -- Databricks
 </p>
 </h3>
 <!--
