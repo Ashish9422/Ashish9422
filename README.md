@@ -20,11 +20,13 @@
 
 <h2> Skills <!--img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px--> </h2>
 <p>
-  <ul>Python</ul>
-  <ul>MySql</ul>
-  <ul>Spark</ul>
-  <ul>Databricks</ul>
-  <ul>Azure Data Factory</ul>
+-  hdsa
+-  bhjdwas
+<ul>Python</ul>
+<ul>MySql</ul>
+<ul>Spark</ul>
+<ul>Databricks</ul>
+<ul>Azure Data Factory</ul>
  </p>
 </h3>
 <!--
